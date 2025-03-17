@@ -1,2 +1,2 @@
-# Convolution-neural-network
-Designed a convolution neural network for my Artificial Intelligence class
+# Convolution-neural-network Classification Natural Disaster
+Designed a convolution neural network to classify between Earthquakes and Floods
